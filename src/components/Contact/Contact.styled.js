@@ -8,7 +8,7 @@ export const ContactsItem = styled('div')(() => {
         fontSize: '18px',
 
         li: {
-            width: '250px'
+            width: '450px'
         }
     };
 });
